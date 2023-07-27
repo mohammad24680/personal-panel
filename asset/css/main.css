@@ -1,0 +1,575 @@
+@media screen and (min-width: 300px) {
+  .wrapper {
+    width: 95%;
+  }
+  .app {
+    height: 90vh;
+  }
+  .header {
+    height: 60px;
+  }
+  .menu-color {
+    display: none;
+  }
+  .header_menu {
+    display: none;
+  }
+  .search_bar {
+    flex: 0 0 56%;
+    margin-left: 15px;
+  }
+  .notification {
+    flex: 0 0 39%;
+  }
+  .notification > nav > ul > li:nth-of-type(1) {
+    width: 32%;
+  }
+  .notification > nav > ul > li:nth-of-type(2) {
+    width: 30%;
+  }
+  .notification > nav > ul > li:nth-of-type(3) {
+    width: 26%;
+  }
+  .wrapper2 {
+    height: 91%;
+  }
+  .left_menu {
+    display: none;
+  }
+  .main_container {
+    width: 100%;
+  }
+  .container_head {
+    justify-content: center;
+    height: 65px;
+  }
+  .container_head > div {
+    display: none;
+  }
+  .container_head > nav {
+    flex: 0 0 85%;
+  }
+  .container_body {
+    padding-top: 20px;
+    height: 89%;
+  }
+  .container_adobe {
+    width: 95%;
+    height: 205px;
+  }
+  .container_adobe > div {
+    flex: 0 0 56%;
+    padding: 10px 0px 0px 10px;
+  }
+  .container_adobe > div > h3 {
+    flex: 0 0 69%;
+    margin-bottom: 5px;
+    font-size: 13px;
+    line-height: 34px;
+    padding-left: 10px;
+  }
+  .container_adobe > div > p {
+    flex: 0 0 75%;
+    font-size: 13px;
+    line-height: 23px;
+    margin-left: 10px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .container_adobe > div > div > button {
+    padding: 7px 20px;
+  }
+  .container_adobe > figure {
+    flex: 0 0 37%;
+  }
+  .container_adobe > figure > img {
+    width: 120px;
+    margin-top: 26px;
+  }
+  .container_section {
+    flex: 0 0 95%;
+    height: 150px;
+  }
+  .container_section > div > nav {
+    flex: 0 0 71%;
+  }
+  .container_section > div > span {
+    display: none;
+  }
+  .content_button {
+    font-size: 15px;
+    padding: 6px 15px;
+  }
+  .dropdown {
+    display: none;
+  }
+  .container_cards {
+    display: flex;
+    flex: 0 0 95%;
+    flex-wrap: wrap;
+    justify-content: start;
+  }
+  .cards {
+    flex: 0 0 100%;
+  }
+  .cards > p {
+    height: 85px;
+    font-size: 14px;
+  }
+  .update_request {
+    width: 100%;
+  }
+  .update_request > div:nth-of-type(2) > div > button:nth-of-type(1) {
+    padding: 6px 20px;
+    margin-right: 0px;
+  }
+  .notification > nav > ul > li > a {
+    font-size: 19px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .wrapper {
+    width: 90%;
+  }
+  .header {
+    height: 60px;
+  }
+  .search_bar {
+    flex: 0 0 61%;
+    margin-left: 30px;
+  }
+  .notification {
+    flex: 0 0 29%;
+  }
+  .notification > nav > ul > li:nth-of-type(1) {
+    width: 36%;
+  }
+  .notification > nav > ul > li:nth-of-type(2) {
+    width: 34%;
+  }
+  .notification > nav > ul > li:nth-of-type(3) {
+    width: 30%;
+  }
+  .wrapper2 {
+    height: 91%;
+  }
+  .container_head {
+    height: 60px;
+  }
+  .container_head > nav {
+    flex: 0 0 60%;
+  }
+  .container_body {
+    padding-top: 0px;
+    height: 91%;
+  }
+  .container_adobe {
+    width: 92%;
+    height: 205px;
+  }
+  .container_adobe > div {
+    flex: 0 0 58%;
+    padding: 20px 20px 20px 20px;
+  }
+  .container_adobe > div > h3 {
+    flex: 0 0 75%;
+    margin-bottom: 10px;
+    font-size: 17px;
+    line-height: 29px;
+    padding-left: 10px;
+  }
+  .container_adobe > div > p {
+    flex: 0 0 99%;
+    display: flex;
+    font-size: 13px;
+    line-height: 23px;
+    margin-left: 0px;
+  }
+  .container_adobe > div > div > button {
+    padding: 8px 26px;
+  }
+  .container_adobe > figure {
+    flex: 0 0 25%;
+  }
+  .container_adobe > figure > img {
+    width: 186px;
+    margin-top: 0px;
+  }
+  .container_section {
+    flex: 0 0 91%;
+    height: 145px;
+  }
+  .container_section > div > nav {
+    flex: 0 0 73%;
+  }
+  .content_button {
+    font-size: 15px;
+    padding: 6px 24px;
+  }
+  .dropdown {
+    display: block;
+    flex: 0 0 7%;
+  }
+  .container_cards {
+    flex: 0 0 91%;
+  }
+  .cards {
+    flex: 0 0 47%;
+  }
+  .container_cards > div:nth-of-type(1) {
+    margin-right: 26px;
+  }
+  .cards > p {
+    height: 90px;
+    font-size: 13px;
+  }
+  .update_request {
+    width: 500px;
+  }
+  .update_request > div:nth-of-type(2) > div > button:nth-of-type(1) {
+    padding: 6px 24px;
+    margin-right: 10px;
+  }
+  .notification > nav > ul > li > a {
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .wrapper {
+    width: 95%;
+  }
+  .header {
+    height: 60px;
+  }
+  .menu-color {
+    flex: 0 0 26%;
+  }
+  .header_menu {
+    display: flex;
+    flex: 0 0 37%;
+  }
+  .header_menu > nav {
+    display: flex;
+  }
+  .header_menu > ul > li:nth-of-type(1) {
+    margin-left: 30px;
+    width: 41%;
+  }
+  .header_menu > ul > li:nth-of-type(3) {
+    width: 41%;
+  }
+  .header_menu > ul > li:nth-of-type(2),
+  .header_menu > ul > li:nth-of-type(4) {
+    display: none;
+  }
+  .search_bar {
+    flex: 0 0 41%;
+    margin-left: 0px;
+  }
+  .search_bar > form {
+    width: 90%;
+  }
+  .notification {
+    flex: 0 0 18%;
+  }
+  .notification > nav > ul > li:nth-of-type(1) {
+    width: 35%;
+  }
+  .notification > nav > ul > li:nth-of-type(2) {
+    width: 33%;
+  }
+  .notification > nav > ul > li:nth-of-type(3) {
+    width: 32%;
+  }
+  .wrapper2 {
+    height: 92%;
+  }
+  .container_head {
+    height: 65px;
+  }
+  .container_head > div {
+    display: none;
+  }
+  .container_head > nav {
+    flex: 0 0 45%;
+  }
+  .container_adobe {
+    width: 87%;
+    height: 200px;
+  }
+  .container_adobe > div {
+    flex: 0 0 68%;
+    padding: 30px;
+  }
+  .container_adobe > div > p {
+    flex: 0 0 90%;
+    line-height: 23px;
+  }
+  .container_section {
+    flex: 0 0 86%;
+    height: 159px;
+  }
+  .container_section > div > nav {
+    flex: 0 0 33%;
+  }
+  .container_cards {
+    flex: 0 0 86%;
+  }
+  .cards {
+    flex: 0 0 48%;
+  }
+  .container_cards > div:nth-of-type(1) {
+    margin-right: 24px;
+  }
+  .cards > p {
+    height: 85px;
+    line-height: 25px;
+  }
+  .dropdown {
+    flex: 0 0 5%;
+  }
+  .container_section > div > span {
+    display: flex;
+  }
+}
+
+@media screen and (min-width: 993px) {
+  .wrapper {
+    width: 95%;
+  }
+  .app {
+    height: 85vh;
+  }
+  .menu-color {
+    display: flex;
+    flex: 0 0 26%;
+  }
+  .header_menu {
+    flex: 0 0 25%;
+  }
+  .header_menu > ul > li:nth-of-type(1),
+  .header_menu > ul > li:nth-of-type(3) {
+    margin-right: 0px;
+    width: 47%;
+  }
+  .header_menu > ul > li:nth-of-type(2),
+  .header_menu > ul > li:nth-of-type(4) {
+    display: none;
+  }
+  .search_bar {
+    flex: 0 0 30%;
+  }
+  .search_bar > form {
+    width: 90%;
+  }
+  .notification {
+    flex: 0 0 19%;
+  }
+  .notification > nav > ul > li:nth-of-type(1) {
+    width: 30%;
+  }
+  .notification > nav > ul > li:nth-of-type(2) {
+    width: 28%;
+  }
+  .notification > nav > ul > li:nth-of-type(3) {
+    width: 24%;
+  }
+  .wrapper2 {
+    height: 92%;
+  }
+  .left_menu {
+    display: block;
+    width: 28%;
+  }
+  .main_container {
+    width: 80%;
+  }
+  .container_head {
+    height: 55px;
+    justify-content: start;
+  }
+  .container_head > div {
+    display: flex;
+    flex: 0 0 28%;
+  }
+  .container_head > nav {
+    flex: 0 0 42%;
+  }
+  .container_head > nav > ul > li {
+    width: 47%;
+  }
+  .container_body {
+    height: 89.2%;
+  }
+  .container_adobe {
+    width: 88%;
+  }
+  .container_adobe > div {
+    flex: 0 0 69%;
+  }
+  .container_adobe > div > p {
+    flex: 0 0 91%;
+  }
+  .container_adobe > figure > img {
+    width: 175px;
+    height: none;
+  }
+  .container_section {
+    flex: 0 0 88%;
+    height: 159px;
+  }
+  .container_section > div > nav {
+    flex: 0 0 30%;
+  }
+  .container_section > div > span {
+    flex: 0 0 46%;
+  }
+  .dropdown {
+    flex: 0 0 6%;
+  }
+  .container_cards {
+    flex: 0 0 88%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .cards {
+    flex: 0 0 46%;
+  }
+  .container_cards > div:nth-of-type(1) {
+    margin-right: 42px;
+  }
+}
+
+@media screen and (min-width: 1201px) {
+  .wrapper {
+    width: 95%;
+  }
+  .app {
+    height: 88vh;
+  }
+  .header {
+    height: 63px;
+  }
+  .menu-color {
+    flex: 0 0 20%;
+  }
+  .header_menu {
+    flex: 0 0 43%;
+  }
+  .header_menu > ul > li:nth-of-type(1) {
+    width: 20%;
+  }
+  .header_menu > ul > li:nth-of-type(3) {
+    width: 27%;
+  }
+  .header_menu > ul > li:nth-of-type(2),
+  .header_menu > ul > li:nth-of-type(4) {
+    display: block;
+  }
+  .search_bar {
+    flex: 0 0 20%;
+  }
+  .notification {
+    flex: 0 0 17%;
+  }
+  .wrapper2 {
+    height: 95%;
+  }
+  .left_menu {
+    width: 20%;
+  }
+  .container_head {
+    height: 60px;
+  }
+  .container_head > div {
+    flex: 0 0 34%;
+  }
+  .container_head > nav {
+    flex: 0 0 28%;
+  }
+  .container_head > nav > ul > li {
+    width: 33%;
+  }
+  .container_body {
+    height: 90%;
+  }
+  .container_adobe {
+    width: 92%;
+    height: 200px;
+  }
+  .container_adobe > div {
+    flex: 0 0 70%;
+  }
+  .container_adobe > div > p {
+    flex: 0 0 59%;
+    font-size: 14px;
+  }
+  .container_adobe > figure > img {
+    width: 186px;
+  }
+  .container_section {
+    flex: 0 0 91%;
+    height: 164px;
+  }
+  .container_section > div > nav {
+    flex: 0 0 40%;
+  }
+  .container_section > div > span {
+    flex: 0 0 44%;
+  }
+  .dropdown {
+    flex: 0 0 5%;
+  }
+  .container_cards {
+    flex: 0 0 98%;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+  }
+  .container_cards > div:nth-of-type(1) {
+    margin-right: 0px;
+  }
+  .cards {
+    flex: 0 0 29%;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .wrapper {
+    width: 1170px;
+  }
+  .app {
+    height: 700px;
+  }
+  .header {
+    height: 70px;
+  }
+  .wrapper2 {
+    height: 90%;
+  }
+  .container_head {
+    height: 65px;
+  }
+  .container_body {
+    height: 89%;
+  }
+  .container_adobe {
+    height: 215px;
+  }
+  .container_adobe > div {
+    flex: 0 0 75%;
+  }
+  .container_adobe > div > p {
+    font-size: 17px;
+  }
+  .container_section > div > span {
+    flex: 0 0 45%;
+  }
+  .container_cards {
+    flex: 0 0 100%;
+  }
+}
