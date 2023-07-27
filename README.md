@@ -1,10 +1,10 @@
 # personal-panel
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![personal panel](https://github.com/mohammad24680/personal-panel/assets/71064028/b83ce46e-e4f4-4df2-81dc-c6863290c511)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![personal panel (1)](https://github.com/mohammad24680/personal-panel/assets/71064028/ea9cf692-0df9-4892-9f84-5b5dab735343)
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project](https://mohammad24680.github.io/personal-panel/)
 
 - Developed by mohammad bagheri
 
